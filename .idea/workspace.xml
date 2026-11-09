@@ -4,12 +4,10 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0cbc99a-de5e-41ab-b037-d977682d1c30" name="Changes" comment="worked on mission 15 boston">
-      <change afterPath="$PROJECT_DIR$/mission12.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/wheel_clean.py" afterDir="false" />
+    <list default="true" id="e0cbc99a-de5e-41ab-b037-d977682d1c30" name="Changes" comment="finalfinalrun">
+      <change afterPath="$PROJECT_DIR$/seedthing4.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/RUN2.py" beforeDir="false" afterPath="$PROJECT_DIR$/RUN2.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/mission15.py" beforeDir="false" afterPath="$PROJECT_DIR$/mission15.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUN2.py" beforeDir="false" afterPath="$PROJECT_DIR$/run5.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -62,10 +60,11 @@
     &quot;RunOnceActivity.typescript.service.memoryLimit.init&quot;: &quot;true&quot;,
     &quot;codeWithMe.voiceChat.enabledByDefault&quot;: &quot;false&quot;,
     &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/home/steam/PycharmProjects/BioGlow-lewis&quot;,
     &quot;node.js.detected.package.jshint&quot;: &quot;true&quot;,
     &quot;node.js.selected.package.jshint&quot;: &quot;&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;fileTemplates&quot;
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.keymap&quot;
   }
 }</component>
   <component name="RunManager">
@@ -130,7 +129,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793993550977</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="finalfinalrun">
+      <option name="closed" value="true" />
+      <created>1794190704545</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1794190704545</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -139,6 +146,7 @@
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished mission3.py - lewis" />
     <MESSAGE value="worked on mission 15 boston" />
-    <option name="LAST_COMMIT_MESSAGE" value="worked on mission 15 boston" />
+    <MESSAGE value="finalfinalrun" />
+    <option name="LAST_COMMIT_MESSAGE" value="finalfinalrun" />
   </component>
 </project>

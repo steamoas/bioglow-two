@@ -6,7 +6,7 @@ Author(s):
 from pybricks.tools import run_task, wait
 from robot import *
 
-async def RUN2():
+async def run5():
 
     await drive.straight(660)
     await drive.straight(-680)
