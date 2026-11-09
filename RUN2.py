@@ -9,7 +9,7 @@ from robot import *
 async def RUN2():
 
     await drive.straight(660)
-    await drive.straight(-660)
+    await drive.straight(-680)
 
 
 

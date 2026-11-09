@@ -7,6 +7,8 @@ from pybricks.tools import run_task, wait
 from robot import *
 
 async def mission15():
+
+
     await drive.straight(-5)
     drive.reset()
     await right_attach.run_until_stalled(500, duty_limit=15)
@@ -25,7 +27,16 @@ async def mission15():
     await drive.turn(15)
     await right_attach.run_angle(100, 20)
     await drive.straight(5)
-    await right_attach.run_angle(100, 25)
+    await right_attach.run_angle(100, 35)
+    await drive.straight(-15)
+    await drive.turn(-45)
+    await right_attach.run_angle(100, -45)
+    await drive.straight(1300)
+
+
+
+
+
 
 
 if __name__ == '__main__':

@@ -4,9 +4,12 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="e0cbc99a-de5e-41ab-b037-d977682d1c30" name="Changes" comment="finished mission3.py - lewis">
-      <change afterPath="$PROJECT_DIR$/mission15.py" afterDir="false" />
+    <list default="true" id="e0cbc99a-de5e-41ab-b037-d977682d1c30" name="Changes" comment="worked on mission 15 boston">
+      <change afterPath="$PROJECT_DIR$/mission12.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/wheel_clean.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/RUN2.py" beforeDir="false" afterPath="$PROJECT_DIR$/RUN2.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/mission15.py" beforeDir="false" afterPath="$PROJECT_DIR$/mission15.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,6 +44,9 @@
   &quot;fromUser&quot;: false
 }</component>
   <component name="ProjectId" id="3LL8ItIwXH3lHC1hQ0jlduYUV91" />
+  <component name="ProjectLevelVcsManager">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -116,7 +122,15 @@
       <option name="project" value="LOCAL" />
       <updated>1793833570310</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="worked on mission 15 boston">
+      <option name="closed" value="true" />
+      <created>1793993550977</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1793993550977</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -124,6 +138,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="finished mission3.py - lewis" />
-    <option name="LAST_COMMIT_MESSAGE" value="finished mission3.py - lewis" />
+    <MESSAGE value="worked on mission 15 boston" />
+    <option name="LAST_COMMIT_MESSAGE" value="worked on mission 15 boston" />
   </component>
 </project>
