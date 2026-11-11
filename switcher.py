@@ -10,12 +10,13 @@ from mission12 import mission12
 from mission15 import mission15
 from robot import *
 from mission3 import mission3
-
+from vinething5 import vinething5
 
 programs = []
 programs.append(mission3)
 programs.append(mission12)
 programs.append(mission15)
+programs.append(vinething5)
 
 async def center_button_pressed():
     while Button.CENTER in hub.buttons.pressed():
