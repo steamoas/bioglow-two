@@ -13,7 +13,8 @@ from mission3 import mission3
 from vinething5 import vinething5
 
 programs = []
-programs.append(mission3)
+programs.append(0)
+programs.append(mission3) #1
 programs.append(mission12)
 programs.append(mission15)
 programs.append(vinething5)
@@ -28,8 +29,8 @@ async def center_button_pressed():
 
 async def switcher():
     hub.system.set_stop_button((Button.LEFT,Button.RIGHT))
-    program_num = 0
-    hub.display.number(0)
+    program_num = 1
+    hub.display.number(1)
     default_settings = drive.settings()
     hub.light.on(Color.RED)
     while True:
@@ -38,7 +39,7 @@ async def switcher():
         buttons = hub.buttons.pressed()
         if Button.LEFT in buttons:
             program_num -= 1
-            if program_num < 0:
+            if program_num < 1:
                 program_num = len(programs) - 1
             hub.display.number(program_num)
             while Button.LEFT in hub.buttons.pressed():
@@ -47,7 +48,7 @@ async def switcher():
         elif Button.RIGHT in buttons:
             program_num += 1
             if program_num == len(programs):
-                program_num = 0
+                program_num = 1
             hub.display.number(program_num)
             while Button.RIGHT in hub.buttons.pressed():
                 await wait(20)
